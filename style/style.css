@@ -22,3 +22,22 @@ body{
     background-repeat: no-repeat !important;
     background-position: top right ;
 }
+div.card{
+    border: none;
+}
+.topic{
+    font-family: 'Inter', sans-serif;
+    color:var(--dolphin)
+}
+.sellings{
+    font-family: 'Inter', sans-serif;
+}
+.sub-topic{
+    color: var(--dolphin);
+}
+
+/* .steps {
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+} */
