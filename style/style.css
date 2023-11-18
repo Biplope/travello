@@ -32,12 +32,12 @@ div.card{
 .sellings{
     font-family: 'Inter', sans-serif;
 }
-.sub-topic{
-    color: var(--dolphin);
+.easy{
+    font-family: 'Inter', sans-serif;
+    color: var(--mist-blue);
 }
 
-/* .steps {
-    margin: auto;
-    border: 3px solid green;
-    padding: 10px;
-} */
+.sub-topic{
+font-family: 'Inter', sans-serif;
+    color: var(--blue-zodiac);
+}
