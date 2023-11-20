@@ -41,3 +41,41 @@ div.card{
 font-family: 'Inter', sans-serif;
     color: var(--blue-zodiac);
 }
+.description{
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Inter', sans-serif;
+    color: var(--dolphin);
+}
+.footer-desc, .company, .contact,.more,.footer-copyright{
+    font-family: 'Inter', sans-serif;
+ 
+}
+
+.list-unstyled,.footer-copyright,.paragraph1st{
+    color: var(--dolphin);
+}
+/* logo */
+.logos{
+    margin: 100px;
+    margin-left: 75px !important; 
+    margin-right: 75px !important;
+}
+.expendia,.axon,.jetstar,.qants,.alitalia{
+    filter: grayscale(100%);
+}
+.expendia:hover{
+    filter: grayscale(0%);
+}
+.axon:hover{
+    filter: grayscale(0%);
+}
+.jetstar:hover{
+    filter: grayscale(0%);
+}
+.qants:hover{
+    filter: grayscale(0%);
+}
+.alitalia:hover{
+    filter: grayscale(0%);
+}
