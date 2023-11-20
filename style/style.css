@@ -66,16 +66,21 @@ font-family: 'Inter', sans-serif;
 }
 .expendia:hover{
     filter: grayscale(0%);
+    transition: 0.3s;
 }
 .axon:hover{
     filter: grayscale(0%);
+    transition: 0.3s;
 }
 .jetstar:hover{
     filter: grayscale(0%);
+    transition: 0.3s;
 }
 .qants:hover{
     filter: grayscale(0%);
+    transition: 0.3s;
 }
 .alitalia:hover{
     filter: grayscale(0%);
+    transition: 0.3s;
 }
